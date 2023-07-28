@@ -14,7 +14,7 @@ subprocess.call(["apt", "install", "libreoffice", "--no-install-recommends"])
 # import os
 
 path = os.getcwd()
-path1 = path + "/documents"
+path1 = path + "/Documents"
 path2 = path + "/generated documents"
 path3 = path + "/edited documents"
 
